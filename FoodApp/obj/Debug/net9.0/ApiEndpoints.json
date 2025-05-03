@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "FoodApp.Controllers.ProductController.ProductController",
+    "Method": "GetAllProducts",
+    "RelativePath": "api/Product/GetAllProducts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FoodApp.Controllers.ProductController.ProductController",
+    "Method": "SearchProduct",
+    "RelativePath": "api/Product/SearchProduct/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "FoodApp.Controllers.RestaurantController.RestaurantController",
     "Method": "GetRestaurants",
     "RelativePath": "api/Restaurant/GetRestaurants",

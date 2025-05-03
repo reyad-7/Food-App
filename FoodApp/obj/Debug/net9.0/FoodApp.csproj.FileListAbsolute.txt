@@ -366,10 +366,10 @@ E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-Ap
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.FoodApp.props
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.FoodApp.props
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Debug\net9.0\staticwebassets.pack.json
-E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Debug\net9.0\FoodApp.csproj.Up2Date
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Debug\net9.0\FoodApp.dll
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Debug\net9.0\refint\FoodApp.dll
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Debug\net9.0\FoodApp.pdb
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Debug\net9.0\FoodApp.genruntimeconfig.cache
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Debug\net9.0\ref\FoodApp.dll
+E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

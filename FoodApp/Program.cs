@@ -10,6 +10,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using FoodApp.Services.ProductService;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -27,9 +28,7 @@ builder.Services.AddScoped<IUserRepository, UserRepository>();
 
 builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<IRestaurantService, RestaurantService>();
-
-
-
+builder.Services.AddScoped<IProductService, ProductService>();
 
 
 //  Configure JWT Authentication
