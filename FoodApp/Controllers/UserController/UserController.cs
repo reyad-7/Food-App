@@ -36,15 +36,15 @@ namespace FoodApp.Controllers.UserController
             }
             return Ok(result);
         }
-        [HttpGet("GetUsers")]
-        public async Task<IActionResult> GetUsers()
-        {
-            var result = await _userService.GetUsers();
-            if (result == null)
-            {
-                return NotFound("No users found");
-            }
-            return Ok(result);
-        }
+        //[HttpGet("GetUsers")]
+        //public async Task<IActionResult> GetUsers()
+        //{
+        //    var result = await _userService.GetUsers();
+        //    if (result == null)
+        //    {
+        //        return NotFound("No users found");
+        //    }
+        //    return Ok(result);
+        //}
     }
 }

@@ -47,16 +47,6 @@
   },
   {
     "ContainingType": "FoodApp.Controllers.UserController.UserController",
-    "Method": "GetUsers",
-    "RelativePath": "api/User/GetUsers",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "FoodApp.Controllers.UserController.UserController",
     "Method": "Login",
     "RelativePath": "api/User/Login",
     "HttpMethod": "POST",

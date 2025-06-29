@@ -27,6 +27,7 @@ namespace FoodApp.Repositories.RestaurantRepository
                 restaurantDto.Address = restaurant.Address;
                 restaurantDto.Latitude = restaurant.Latitude;
                 restaurantDto.Longitude = restaurant.Longitude;
+                restaurantDto.type = restaurant.type;
                 restaurantDto.MenuProductsNames = _foodAppDb.Products
                 .Where(p => p.RestaurantId == restaurant.Id)
                 .Select(p => p.Name)
@@ -46,6 +47,7 @@ namespace FoodApp.Repositories.RestaurantRepository
                 var restaurantDto = new AllProductsForEachRestauarntDTO
                 {
                     RestaurantName = restaurant.Name,
+                    type = restaurant.type,
                     products = _foodAppDb.Products
                      .Where(p => p.RestaurantId == restaurant.Id).ToList()
                      .Select(p => new ProductDto

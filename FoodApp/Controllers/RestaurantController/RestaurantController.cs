@@ -1,12 +1,14 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using FoodApp.Services.RestaurantService;
+using Microsoft.AspNetCore.Authorization;
 
 
 namespace FoodApp.Controllers.RestaurantController
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class RestaurantController : ControllerBase
     {
         private readonly IRestaurantService _restaurantService;

@@ -7,6 +7,7 @@
         public string Address { get; set; }
         public double Latitude { get; set; }
         public double Longitude { get; set; }
+        public string? type { get; set; }
         public List<Product> ? MenuProducts { get; set; } = new List<Product>();
     }
 }

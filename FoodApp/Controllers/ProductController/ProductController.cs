@@ -1,4 +1,5 @@
 ﻿using FoodApp.Services.ProductService;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -6,6 +7,7 @@ namespace FoodApp.Controllers.ProductController
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class ProductController : ControllerBase
     {
         public readonly IProductService _productService;

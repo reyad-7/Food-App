@@ -69,7 +69,7 @@ namespace FoodApp.Repositories.UserRepository
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
             var token = new JwtSecurityToken(
                 claims: Claims,
-                expires: DateTime.Now.AddMinutes(5),
+                expires: DateTime.Now.AddHours(1),
                 signingCredentials: creds
             );
             return new LogInResponseDto

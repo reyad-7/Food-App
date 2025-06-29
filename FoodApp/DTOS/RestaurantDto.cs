@@ -8,6 +8,7 @@ namespace FoodApp.DTOS
         public string Address { get; set; }
         public double Latitude { get; set; }
         public double Longitude { get; set; }
+        public string? type { get; set; }
         public List<string> MenuProductsNames { get; set; } = new List<string>();
     }
 }
