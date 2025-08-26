@@ -63,6 +63,22 @@
   },
   {
     "ContainingType": "FoodApp.Controllers.UserController.UserController",
+    "Method": "LogInWithGoogle",
+    "RelativePath": "api/User/logInWithGoogle",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idToken",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FoodApp.Controllers.UserController.UserController",
     "Method": "Register",
     "RelativePath": "api/User/Register",
     "HttpMethod": "POST",

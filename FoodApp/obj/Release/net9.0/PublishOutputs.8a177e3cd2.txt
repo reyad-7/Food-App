@@ -1,6 +1,7 @@
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\FoodApp.exe
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\appsettings.json
+E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\foodapp-68003-firebase-adminsdk-fbsvc-b957a0d974.json
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\FoodApp.dll
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\FoodApp.runtimeconfig.json
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\FoodApp.pdb
@@ -8,6 +9,13 @@ E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-Ap
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\Azure.Identity.dll
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\EntityFramework.SqlServer.dll
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\EntityFramework.dll
+E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\FirebaseAdmin.dll
+E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\Firebase.Auth.dll
+E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\Google.Api.Gax.dll
+E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\Google.Api.Gax.Rest.dll
+E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\Google.Apis.dll
+E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\Google.Apis.Auth.dll
+E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\Google.Apis.Core.dll
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\Microsoft.AspNet.Identity.Core.dll
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\Microsoft.AspNet.Identity.EntityFramework.dll
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
@@ -43,6 +51,7 @@ E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-Ap
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\Microsoft.OpenApi.dll
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\Microsoft.SqlServer.Server.dll
+E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\Newtonsoft.Json.dll
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -50,11 +59,10 @@ E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-Ap
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\System.CodeDom.dll
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\System.Configuration.ConfigurationManager.dll
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\System.Data.SqlClient.dll
-E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\System.Formats.Asn1.dll
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\System.Management.dll
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\System.Memory.Data.dll
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
-E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\System.Text.Json.dll
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\cs\Microsoft.Data.SqlClient.resources.dll
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\de\Microsoft.Data.SqlClient.resources.dll
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\es\Microsoft.Data.SqlClient.resources.dll
@@ -78,4 +86,5 @@ E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-Ap
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\runtimes\win\lib\net7.0\System.Management.dll
 E:\STUDYING\Fourth And Last Year\2nd Semester\Mobile\Assignments\Project\Food-App\FoodApp\obj\Release\net9.0\PubTmp\Out\FoodApp.deps.json

@@ -4,6 +4,7 @@ using System.Security.Claims;
 using System.Text;
 using FoodApp.DTOS;
 using FoodApp.Models;
+using FoodApp.Repositories.JwtService;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.IdentityModel.Tokens;
 
@@ -15,12 +16,14 @@ namespace FoodApp.Repositories.UserRepository
         private readonly UserManager<User> _userManager;
         private readonly IConfiguration configuration;
         private string securityKey;
+        private readonly IjwtRepository _jwtRepository ;
 
-        public UserRepository(FoodAppDbContext foodAppDb, IConfiguration configuration, UserManager<User> userManager)
+        public UserRepository(FoodAppDbContext foodAppDb, IConfiguration configuration, UserManager<User> userManager, IjwtRepository jwtRepository)
         {
             _foodAppDb = foodAppDb;
             _userManager = userManager;
             securityKey = configuration.GetValue<string>("ApiSettings:Secret") ?? throw new InvalidOperationException("ApiSettings:Secret is not configured.");
+            this._jwtRepository = jwtRepository;
         }
 
         public Task<List<UserDto>> GetUsers()
@@ -59,23 +62,12 @@ namespace FoodApp.Repositories.UserRepository
                 UserLevel = user.level,
             };
             
-            var Claims = new List<Claim>()
-            {
-                new Claim(ClaimTypes.NameIdentifier, user.Id),
-                new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
-                new Claim(ClaimTypes.Name, user.UserName),
-            };
-            var key = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(securityKey));
-            var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
-            var token = new JwtSecurityToken(
-                claims: Claims,
-                expires: DateTime.Now.AddHours(1),
-                signingCredentials: creds
-            );
+            string token = _jwtRepository.CreateToken(user);
+
             return new LogInResponseDto
             {
                 user = returneduser,
-                Token = new JwtSecurityTokenHandler().WriteToken(token),
+                Token = token
             };
         }
 
@@ -89,7 +81,6 @@ namespace FoodApp.Repositories.UserRepository
                 level = registerDto.level,
                 UserName = registerDto.UserName,
             };
-
             var userResponse = new registerResponseDto();
             var result = await _userManager.CreateAsync(userToRegister, registerDto.Password);
             if (!result.Succeeded)

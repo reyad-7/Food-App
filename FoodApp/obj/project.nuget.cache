@@ -1,12 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "zJe0x8lKctY=",
+  "dgSpecHash": "a9w2yF9qzd8=",
   "success": true,
   "projectFilePath": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\FoodApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mohamed reyad\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Mohamed reyad\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
     "C:\\Users\\Mohamed reyad\\.nuget\\packages\\entityframework\\6.5.1\\entityframework.6.5.1.nupkg.sha512",
+    "C:\\Users\\Mohamed reyad\\.nuget\\packages\\firebaseadmin\\3.3.0\\firebaseadmin.3.3.0.nupkg.sha512",
+    "C:\\Users\\Mohamed reyad\\.nuget\\packages\\firebaseauthentication.net\\4.1.0\\firebaseauthentication.net.4.1.0.nupkg.sha512",
+    "C:\\Users\\Mohamed reyad\\.nuget\\packages\\google.api.gax\\4.8.0\\google.api.gax.4.8.0.nupkg.sha512",
+    "C:\\Users\\Mohamed reyad\\.nuget\\packages\\google.api.gax.rest\\4.8.0\\google.api.gax.rest.4.8.0.nupkg.sha512",
+    "C:\\Users\\Mohamed reyad\\.nuget\\packages\\google.apis\\1.68.0\\google.apis.1.68.0.nupkg.sha512",
+    "C:\\Users\\Mohamed reyad\\.nuget\\packages\\google.apis.auth\\1.68.0\\google.apis.auth.1.68.0.nupkg.sha512",
+    "C:\\Users\\Mohamed reyad\\.nuget\\packages\\google.apis.core\\1.68.0\\google.apis.core.1.68.0.nupkg.sha512",
     "C:\\Users\\Mohamed reyad\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Mohamed reyad\\.nuget\\packages\\microsoft.aspnet.identity.core\\2.2.4\\microsoft.aspnet.identity.core.2.2.4.nupkg.sha512",
     "C:\\Users\\Mohamed reyad\\.nuget\\packages\\microsoft.aspnet.identity.entityframework\\2.2.4\\microsoft.aspnet.identity.entityframework.2.2.4.nupkg.sha512",
@@ -61,6 +68,7 @@
     "C:\\Users\\Mohamed reyad\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\Mohamed reyad\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Mohamed reyad\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
+    "C:\\Users\\Mohamed reyad\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Mohamed reyad\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
     "C:\\Users\\Mohamed reyad\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\Mohamed reyad\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
@@ -70,8 +78,8 @@
     "C:\\Users\\Mohamed reyad\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\8.1.1\\swashbuckle.aspnetcore.swaggergen.8.1.1.nupkg.sha512",
     "C:\\Users\\Mohamed reyad\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\8.1.1\\swashbuckle.aspnetcore.swaggerui.8.1.1.nupkg.sha512",
     "C:\\Users\\Mohamed reyad\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
-    "C:\\Users\\Mohamed reyad\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
-    "C:\\Users\\Mohamed reyad\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",
+    "C:\\Users\\Mohamed reyad\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Mohamed reyad\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
     "C:\\Users\\Mohamed reyad\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\Mohamed reyad\\.nuget\\packages\\system.composition\\7.0.0\\system.composition.7.0.0.nupkg.sha512",
     "C:\\Users\\Mohamed reyad\\.nuget\\packages\\system.composition.attributedmodel\\7.0.0\\system.composition.attributedmodel.7.0.0.nupkg.sha512",
@@ -86,6 +94,7 @@
     "C:\\Users\\Mohamed reyad\\.nuget\\packages\\system.formats.asn1\\9.0.4\\system.formats.asn1.9.0.4.nupkg.sha512",
     "C:\\Users\\Mohamed reyad\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.9.0\\system.identitymodel.tokens.jwt.8.9.0.nupkg.sha512",
     "C:\\Users\\Mohamed reyad\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
+    "C:\\Users\\Mohamed reyad\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512",
     "C:\\Users\\Mohamed reyad\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\Mohamed reyad\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
     "C:\\Users\\Mohamed reyad\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
@@ -104,8 +113,10 @@
     {
       "code": "NU1701",
       "level": "Warning",
-      "warningLevel": 1,
       "message": "Package 'Microsoft.AspNet.Identity.Core 2.2.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
+      "projectPath": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\FoodApp.csproj",
+      "warningLevel": 1,
+      "filePath": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\FoodApp.csproj",
       "libraryId": "Microsoft.AspNet.Identity.Core",
       "targetGraphs": [
         "net9.0"
@@ -114,8 +125,10 @@
     {
       "code": "NU1701",
       "level": "Warning",
-      "warningLevel": 1,
       "message": "Package 'Microsoft.AspNet.Identity.EntityFramework 2.2.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
+      "projectPath": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\FoodApp.csproj",
+      "warningLevel": 1,
+      "filePath": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\FoodApp.csproj",
       "libraryId": "Microsoft.AspNet.Identity.EntityFramework",
       "targetGraphs": [
         "net9.0"

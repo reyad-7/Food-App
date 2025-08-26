@@ -1,4 +1,6 @@
-﻿using FoodApp.DTOS;
+﻿using Azure.Core;
+using FoodApp.DTOS;
+using FoodApp.Services.GoogleLogInService;
 using FoodApp.Services.UserService;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -10,10 +12,12 @@ namespace FoodApp.Controllers.UserController
     public class UserController : ControllerBase
     {
         private readonly IUserService _userService;
+        private readonly IGoogleLogInService _googleLogInService ;
 
-        public UserController(IUserService userService)
+        public UserController(IUserService userService,IGoogleLogInService googleLogInService)
         {
             this._userService = userService;
+            this._googleLogInService = googleLogInService;
         }
 
         [HttpPost("Register")]
@@ -46,5 +50,26 @@ namespace FoodApp.Controllers.UserController
         //    }
         //    return Ok(result);
         //}
+
+        [HttpPost("logInWithGoogle")]
+        public async Task<IActionResult> LogInWithGoogle([FromBody] string idToken)
+        {
+            if (string.IsNullOrEmpty(idToken))
+                return BadRequest("Google ID token is required");
+
+            try
+            {
+                var result = await _googleLogInService.GoogleLogIn(idToken);
+
+                if (result == null || string.IsNullOrEmpty(result.Token))
+                    return Unauthorized("Invalid Google token or login failed");
+                    
+                return Ok(result);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, "An error occurred while processing Google login");
+            }
+        }
     }
 }

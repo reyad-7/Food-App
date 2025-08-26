@@ -3,28 +3,56 @@
   "WorkspaceRootPath": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\foodapp-68003-firebase-adminsdk-fbsvc-b957a0d974.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\foodapp-68003-firebase-adminsdk-fbsvc-b957a0d974.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\repositories\\googlelogin repository\\loginwithgoogle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\repositories\\googlelogin repository\\loginwithgoogle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\repositories\\googlelogin repository\\iloginwithgoogle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\repositories\\googlelogin repository\\iloginwithgoogle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\services\\googleloginservice\\googleloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\services\\googleloginservice\\googleloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\controllers\\usercontroller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\controllers\\usercontroller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\controllers\\productcontroller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\controllers\\productcontroller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\services\\googleloginservice\\igoogleloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\services\\googleloginservice\\igoogleloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\repositories\\jwtservice\\ijwtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\repositories\\jwtservice\\ijwtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\repositories\\jwtservice\\jwtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\repositories\\jwtservice\\jwtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\repositories\\userrepository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\repositories\\userrepository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\repositories\\userrepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\repositories\\userrepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\controllers\\productcontroller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\controllers\\productcontroller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\services\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\controllers\\restaurantcontroller\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\controllers\\restaurantcontroller\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\dtos\\restaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,10 +107,6 @@
       "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\dtos\\productrestaurants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\services\\restaurantservice\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\services\\restaurantservice\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -107,14 +127,6 @@
       "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -125,10 +137,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|solutionrelative:foodapp\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E0264CD-2375-4D78-89D4-664560494B48}|FoodApp\\FoodApp.csproj|e:\\studying\\fourth and last year\\2nd semester\\mobile\\assignments\\project\\food-app\\foodapp\\migrations\\20250424202036_initial db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -154,8 +162,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1061,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Program.cs",
+              "RelativeDocumentMoniker": "FoodApp\\Program.cs",
+              "ToolTip": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Program.cs",
+              "RelativeToolTip": "FoodApp\\Program.cs",
+              "ViewState": "AgIAABoAAADAzMzMzMwwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T01:28:13.347Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -165,90 +187,151 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Controllers\\ProductController\\ProductController.cs",
-              "RelativeDocumentMoniker": "FoodApp\\Controllers\\ProductController\\ProductController.cs",
-              "ToolTip": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Controllers\\ProductController\\ProductController.cs",
-              "RelativeToolTip": "FoodApp\\Controllers\\ProductController\\ProductController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAADwvx8AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T18:47:46.33Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Controllers\\UserController\\UserController.cs",
-              "RelativeDocumentMoniker": "FoodApp\\Controllers\\UserController\\UserController.cs",
-              "ToolTip": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Controllers\\UserController\\UserController.cs",
-              "RelativeToolTip": "FoodApp\\Controllers\\UserController\\UserController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Title": "LoginwithGoogle.cs",
+              "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Repositories\\GoogleLogIn Repository\\LoginwithGoogle.cs",
+              "RelativeDocumentMoniker": "FoodApp\\Repositories\\GoogleLogIn Repository\\LoginwithGoogle.cs",
+              "ToolTip": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Repositories\\GoogleLogIn Repository\\LoginwithGoogle.cs",
+              "RelativeToolTip": "FoodApp\\Repositories\\GoogleLogIn Repository\\LoginwithGoogle.cs",
+              "ViewState": "AgIAACEAAAAAl5mZmZknwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T21:26:55.684Z",
+              "WhenOpened": "2025-08-26T00:16:35.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Repositories\\UserRepository\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "FoodApp\\Repositories\\UserRepository\\IUserRepository.cs",
-              "ToolTip": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Repositories\\UserRepository\\IUserRepository.cs",
-              "RelativeToolTip": "FoodApp\\Repositories\\UserRepository\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T20:24:09.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Services\\UserService\\UserService.cs",
-              "RelativeDocumentMoniker": "FoodApp\\Services\\UserService\\UserService.cs",
-              "ToolTip": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Services\\UserService\\UserService.cs",
-              "RelativeToolTip": "FoodApp\\Services\\UserService\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T21:22:36.1Z",
+              "DocumentIndex": 0,
+              "Title": "foodapp-68003-firebase-adminsdk-fbsvc-b957a0d974.json",
+              "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\foodapp-68003-firebase-adminsdk-fbsvc-b957a0d974.json",
+              "RelativeDocumentMoniker": "FoodApp\\foodapp-68003-firebase-adminsdk-fbsvc-b957a0d974.json",
+              "ToolTip": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\foodapp-68003-firebase-adminsdk-fbsvc-b957a0d974.json",
+              "RelativeToolTip": "FoodApp\\foodapp-68003-firebase-adminsdk-fbsvc-b957a0d974.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T16:52:29.187Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "GoogleLogInService.cs",
+              "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Services\\GoogleLogInService\\GoogleLogInService.cs",
+              "RelativeDocumentMoniker": "FoodApp\\Services\\GoogleLogInService\\GoogleLogInService.cs",
+              "ToolTip": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Services\\GoogleLogInService\\GoogleLogInService.cs",
+              "RelativeToolTip": "FoodApp\\Services\\GoogleLogInService\\GoogleLogInService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T01:20:27.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogInResponseDto.cs",
+              "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\DTOS\\LogInResponseDto.cs",
+              "RelativeDocumentMoniker": "FoodApp\\DTOS\\LogInResponseDto.cs",
+              "ToolTip": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\DTOS\\LogInResponseDto.cs",
+              "RelativeToolTip": "FoodApp\\DTOS\\LogInResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T01:21:09.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILoginwithGoogle.cs",
+              "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Repositories\\GoogleLogIn Repository\\ILoginwithGoogle.cs",
+              "RelativeDocumentMoniker": "FoodApp\\Repositories\\GoogleLogIn Repository\\ILoginwithGoogle.cs",
+              "ToolTip": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Repositories\\GoogleLogIn Repository\\ILoginwithGoogle.cs",
+              "RelativeToolTip": "FoodApp\\Repositories\\GoogleLogIn Repository\\ILoginwithGoogle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T00:16:27.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Controllers\\UserController\\UserController.cs",
+              "RelativeDocumentMoniker": "FoodApp\\Controllers\\UserController\\UserController.cs",
+              "ToolTip": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Controllers\\UserController\\UserController.cs",
+              "RelativeToolTip": "FoodApp\\Controllers\\UserController\\UserController.cs",
+              "ViewState": "AgIAADAAAABAZmZmZmYwwEgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T01:15:25.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\appsettings.json",
+              "RelativeDocumentMoniker": "FoodApp\\appsettings.json",
+              "ToolTip": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\appsettings.json",
+              "RelativeToolTip": "FoodApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-27T15:33:13.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGoogleLogInService.cs",
+              "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Services\\GoogleLogInService\\IGoogleLogInService.cs",
+              "RelativeDocumentMoniker": "FoodApp\\Services\\GoogleLogInService\\IGoogleLogInService.cs",
+              "ToolTip": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Services\\GoogleLogInService\\IGoogleLogInService.cs",
+              "RelativeToolTip": "FoodApp\\Services\\GoogleLogInService\\IGoogleLogInService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T01:20:41.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "jwtRepository.cs",
+              "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Repositories\\JwtService\\jwtRepository.cs",
+              "RelativeDocumentMoniker": "FoodApp\\Repositories\\JwtService\\jwtRepository.cs",
+              "ToolTip": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Repositories\\JwtService\\jwtRepository.cs",
+              "RelativeToolTip": "FoodApp\\Repositories\\JwtService\\jwtRepository.cs",
+              "ViewState": "AgIAAA8AAABA//////8fwBoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T00:41:54.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Repositories\\UserRepository\\UserRepository.cs",
               "RelativeDocumentMoniker": "FoodApp\\Repositories\\UserRepository\\UserRepository.cs",
               "ToolTip": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Repositories\\UserRepository\\UserRepository.cs",
               "RelativeToolTip": "FoodApp\\Repositories\\UserRepository\\UserRepository.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAAwE4AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T20:24:22.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Program.cs",
-              "RelativeDocumentMoniker": "FoodApp\\Program.cs",
-              "ToolTip": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Program.cs",
-              "RelativeToolTip": "FoodApp\\Program.cs",
-              "ViewState": "AgIAAC4AAAAA2P/////1v2cAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "IjwtRepository.cs",
+              "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Repositories\\JwtService\\IjwtRepository.cs",
+              "RelativeDocumentMoniker": "FoodApp\\Repositories\\JwtService\\IjwtRepository.cs",
+              "ToolTip": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Repositories\\JwtService\\IjwtRepository.cs",
+              "RelativeToolTip": "FoodApp\\Repositories\\JwtService\\IjwtRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T19:59:30.401Z",
+              "WhenOpened": "2025-08-26T00:41:39.317Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "IUserService.cs",
               "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Services\\UserService\\IUserService.cs",
               "RelativeDocumentMoniker": "FoodApp\\Services\\UserService\\IUserService.cs",
@@ -261,7 +344,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Controllers\\ProductController\\ProductController.cs",
+              "RelativeDocumentMoniker": "FoodApp\\Controllers\\ProductController\\ProductController.cs",
+              "ToolTip": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Controllers\\ProductController\\ProductController.cs",
+              "RelativeToolTip": "FoodApp\\Controllers\\ProductController\\ProductController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvx8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:47:46.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "RestaurantController.cs",
               "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Controllers\\RestaurantController\\RestaurantController.cs",
               "RelativeDocumentMoniker": "FoodApp\\Controllers\\RestaurantController\\RestaurantController.cs",
@@ -274,20 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Models\\User.cs",
-              "RelativeDocumentMoniker": "FoodApp\\Models\\User.cs",
-              "ToolTip": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Models\\User.cs",
-              "RelativeToolTip": "FoodApp\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T15:29:48.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "RestaurantDto.cs",
               "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\DTOS\\RestaurantDto.cs",
               "RelativeDocumentMoniker": "FoodApp\\DTOS\\RestaurantDto.cs",
@@ -300,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "RestaurantRepository.cs",
               "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Repositories\\RestaurantRepository\\RestaurantRepository.cs",
               "RelativeDocumentMoniker": "FoodApp\\Repositories\\RestaurantRepository\\RestaurantRepository.cs",
@@ -313,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "IRestaurantRepository.cs",
               "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Repositories\\RestaurantRepository\\IRestaurantRepository.cs",
               "RelativeDocumentMoniker": "FoodApp\\Repositories\\RestaurantRepository\\IRestaurantRepository.cs",
@@ -321,11 +404,12 @@
               "RelativeToolTip": "FoodApp\\Repositories\\RestaurantRepository\\IRestaurantRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T15:40:34.201Z"
+              "WhenOpened": "2025-04-27T15:40:34.201Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "AllProductsForEachRestauarntDTO.cs",
               "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\DTOS\\AllProductsForEachRestauarntDTO.cs",
               "RelativeDocumentMoniker": "FoodApp\\DTOS\\AllProductsForEachRestauarntDTO.cs",
@@ -338,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "20250512124552_type field addd.cs",
               "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Migrations\\20250512124552_type field addd.cs",
               "RelativeDocumentMoniker": "FoodApp\\Migrations\\20250512124552_type field addd.cs",
@@ -351,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "Restaurant.cs",
               "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Models\\Restaurant.cs",
               "RelativeDocumentMoniker": "FoodApp\\Models\\Restaurant.cs",
@@ -364,20 +448,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "FoodAppDbContext.cs",
               "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Models\\FoodAppDbContext.cs",
               "RelativeDocumentMoniker": "FoodApp\\Models\\FoodAppDbContext.cs",
               "ToolTip": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Models\\FoodAppDbContext.cs",
               "RelativeToolTip": "FoodApp\\Models\\FoodAppDbContext.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAwPQ0AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAD4//////9AwA0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T19:45:48.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Repositories\\ProductRepository\\IProductRepository.cs",
               "RelativeDocumentMoniker": "FoodApp\\Repositories\\ProductRepository\\IProductRepository.cs",
@@ -385,11 +469,12 @@
               "RelativeToolTip": "FoodApp\\Repositories\\ProductRepository\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T15:38:19.139Z"
+              "WhenOpened": "2025-04-27T15:38:19.139Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Repositories\\ProductRepository\\ProductRepository.cs",
               "RelativeDocumentMoniker": "FoodApp\\Repositories\\ProductRepository\\ProductRepository.cs",
@@ -397,11 +482,12 @@
               "RelativeToolTip": "FoodApp\\Repositories\\ProductRepository\\ProductRepository.cs",
               "ViewState": "AgIAABAAAADAy8zMzMwvwCcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T15:38:33.328Z"
+              "WhenOpened": "2025-04-27T15:38:33.328Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "ProductService.cs",
               "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Services\\ProductService\\ProductService.cs",
               "RelativeDocumentMoniker": "FoodApp\\Services\\ProductService\\ProductService.cs",
@@ -409,11 +495,12 @@
               "RelativeToolTip": "FoodApp\\Services\\ProductService\\ProductService.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAApwBMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T18:44:37.328Z"
+              "WhenOpened": "2025-05-03T18:44:37.328Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "IProductService.cs",
               "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Services\\ProductService\\IProductService.cs",
               "RelativeDocumentMoniker": "FoodApp\\Services\\ProductService\\IProductService.cs",
@@ -421,11 +508,12 @@
               "RelativeToolTip": "FoodApp\\Services\\ProductService\\IProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T18:45:54.036Z"
+              "WhenOpened": "2025-05-03T18:45:54.036Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "ProductRestaurants.cs",
               "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\DTOS\\ProductRestaurants.cs",
               "RelativeDocumentMoniker": "FoodApp\\DTOS\\ProductRestaurants.cs",
@@ -438,19 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\appsettings.json",
-              "RelativeDocumentMoniker": "FoodApp\\appsettings.json",
-              "ToolTip": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\appsettings.json",
-              "RelativeToolTip": "FoodApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-27T15:33:13.488Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "RestaurantService.cs",
               "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Services\\RestaurantService\\RestaurantService.cs",
               "RelativeDocumentMoniker": "FoodApp\\Services\\RestaurantService\\RestaurantService.cs",
@@ -458,11 +534,12 @@
               "RelativeToolTip": "FoodApp\\Services\\RestaurantService\\RestaurantService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T16:12:58.616Z"
+              "WhenOpened": "2025-04-27T16:12:58.616Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "IRestaurantService.cs",
               "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Services\\RestaurantService\\IRestaurantService.cs",
               "RelativeDocumentMoniker": "FoodApp\\Services\\RestaurantService\\IRestaurantService.cs",
@@ -470,11 +547,12 @@
               "RelativeToolTip": "FoodApp\\Services\\RestaurantService\\IRestaurantService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T16:08:41.279Z"
+              "WhenOpened": "2025-04-27T16:08:41.279Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\DTOS\\ProductDto.cs",
               "RelativeDocumentMoniker": "FoodApp\\DTOS\\ProductDto.cs",
@@ -487,7 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "20250427163745_MakeRestaurentOPtional for product.cs",
               "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Migrations\\20250427163745_MakeRestaurentOPtional for product.cs",
               "RelativeDocumentMoniker": "FoodApp\\Migrations\\20250427163745_MakeRestaurentOPtional for product.cs",
@@ -495,11 +573,12 @@
               "RelativeToolTip": "FoodApp\\Migrations\\20250427163745_MakeRestaurentOPtional for product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T16:37:46.168Z"
+              "WhenOpened": "2025-04-27T16:37:46.168Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Models\\Product.cs",
               "RelativeDocumentMoniker": "FoodApp\\Models\\Product.cs",
@@ -512,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "20250427153412_dbd sets resturant And Product Added.cs",
               "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Migrations\\20250427153412_dbd sets resturant And Product Added.cs",
               "RelativeDocumentMoniker": "FoodApp\\Migrations\\20250427153412_dbd sets resturant And Product Added.cs",
@@ -520,11 +599,12 @@
               "RelativeToolTip": "FoodApp\\Migrations\\20250427153412_dbd sets resturant And Product Added.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T15:34:12.924Z"
+              "WhenOpened": "2025-04-27T15:34:12.924Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "20250427153128_resturant And Product Added.cs",
               "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Migrations\\20250427153128_resturant And Product Added.cs",
               "RelativeDocumentMoniker": "FoodApp\\Migrations\\20250427153128_resturant And Product Added.cs",
@@ -532,37 +612,12 @@
               "RelativeToolTip": "FoodApp\\Migrations\\20250427153128_resturant And Product Added.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T15:31:28.989Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\DTOS\\UserDto.cs",
-              "RelativeDocumentMoniker": "FoodApp\\DTOS\\UserDto.cs",
-              "ToolTip": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\DTOS\\UserDto.cs",
-              "RelativeToolTip": "FoodApp\\DTOS\\UserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T22:13:32.779Z",
+              "WhenOpened": "2025-04-27T15:31:28.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "LogInResponseDto.cs",
-              "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\DTOS\\LogInResponseDto.cs",
-              "RelativeDocumentMoniker": "FoodApp\\DTOS\\LogInResponseDto.cs",
-              "ToolTip": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\DTOS\\LogInResponseDto.cs",
-              "RelativeToolTip": "FoodApp\\DTOS\\LogInResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T20:34:55.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\DTOS\\RegisterDto.cs",
               "RelativeDocumentMoniker": "FoodApp\\DTOS\\RegisterDto.cs",
@@ -575,7 +630,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "registerResponseDto.cs",
               "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\DTOS\\registerResponseDto.cs",
               "RelativeDocumentMoniker": "FoodApp\\DTOS\\registerResponseDto.cs",
@@ -583,11 +638,12 @@
               "RelativeToolTip": "FoodApp\\DTOS\\registerResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T20:29:02.132Z"
+              "WhenOpened": "2025-04-24T20:29:02.132Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "launchSettings.json",
               "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "FoodApp\\Properties\\launchSettings.json",
@@ -595,24 +651,12 @@
               "RelativeToolTip": "FoodApp\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-25T21:50:35.373Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "LogInDto.cs",
-              "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\DTOS\\LogInDto.cs",
-              "RelativeDocumentMoniker": "FoodApp\\DTOS\\LogInDto.cs",
-              "ToolTip": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\DTOS\\LogInDto.cs",
-              "RelativeToolTip": "FoodApp\\DTOS\\LogInDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T20:33:02.364Z",
+              "WhenOpened": "2025-04-25T21:50:35.373Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "20250424202036_Initial db.cs",
               "DocumentMoniker": "E:\\STUDYING\\Fourth And Last Year\\2nd Semester\\Mobile\\Assignments\\Project\\Food-App\\FoodApp\\Migrations\\20250424202036_Initial db.cs",
               "RelativeDocumentMoniker": "FoodApp\\Migrations\\20250424202036_Initial db.cs",
@@ -620,7 +664,8 @@
               "RelativeToolTip": "FoodApp\\Migrations\\20250424202036_Initial db.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T20:20:37.262Z"
+              "WhenOpened": "2025-04-24T20:20:37.262Z",
+              "EditorCaption": ""
             }
           ]
         },
